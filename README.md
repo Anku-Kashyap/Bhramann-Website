@@ -2,7 +2,8 @@
 
 
 
-Installation Steps(Configuration)
+Installation Steps
+
 1. Download and Unzip file on your local system.
 2. Put folder inside xampp/htdocs folder
 
